@@ -1,1 +1,1 @@
-# web_project_friends-store
+# web_project_product-store
